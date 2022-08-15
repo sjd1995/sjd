@@ -1,4 +1,7 @@
 console.log("hello world");
 
-alert("Hello");
+function sayHello(){
+    console.log("hi mmd");
+}
 
+sayHello();
