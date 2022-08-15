@@ -13,3 +13,5 @@ let user = {
     name: "saj",
     lastName: "shafie",
 };
+
+let name = "sajjad";
