@@ -8,3 +8,8 @@ sayHello();
 
 
 console.log("Hello git");
+
+let user = {
+    name: "saj",
+    lastName: "shafie",
+};
